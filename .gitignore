@@ -580,3 +580,8 @@ FodyWeavers.xsd
 # Additional files built by Visual Studio
 
 # End of https://www.toptal.com/developers/gitignore/api/unrealengine,rider,visualstudio,visualstudiocode
+/Project_Ernesto/Saved/Crashes
+/Project_Ernesto/Saved/Config/CrashReportClient
+Project_Ernesto/Saved/Config/CrashReportClient/UECC-Windows-4D4A8E34458D4CA5D7B4DBBA2739A3A5/CrashReportClient.ini
+/Project_Ernesto/Saved/Config/CrashReportClient
+Project_Ernesto/Saved/Config/CrashReportClient/UECC-Windows-255DA8B647168B550A309D94C0E66D23/CrashReportClient.ini
