@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Marco/Documents/GitHub/Project-Ernesto/Project_Ernesto/Content/Marco_Workspace/MarcoPlayground.umap",
+				"C:/Users/Marco/Documents/GitHub/Project-Ernesto/Project_Ernesto/Content/Marco_Workspace/Blueprints/Interfaces/I_Interactable.uasset",
+				"C:/Users/Marco/Documents/GitHub/Project-Ernesto/Project_Ernesto/Content/Marco_Workspace/Blueprints/Classes/InteractableObjects/Mangime.uasset",
+				"C:/Users/Marco/Documents/GitHub/Project-Ernesto/Project_Ernesto/Content/Marco_Workspace/Blueprints/Classes/PlayerInteractionManager.uasset",
+				"C:/Users/Marco/Documents/GitHub/Project-Ernesto/Project_Ernesto/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/Marco/Documents/GitHub/Project-Ernesto/Project_Ernesto/Content/Marco_Workspace/Blueprints/Classes/Widgets/Interaction_HUD.uasset",
 				"G:/UnrealProject/Project-Ernesto/Project_Ernesto/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/P8/0GJ9TLQE2YKOIFZ6YHG33H.uasset",
 				"G:/UnrealProject/Project-Ernesto/Project_Ernesto/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/OD/YPSPM063O6XAJVKSDHY2JX.uasset",
 				"G:/UnrealProject/Project-Ernesto/Project_Ernesto/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/QD/YCT40NO2IUOUEYFG5DM80B.uasset",
