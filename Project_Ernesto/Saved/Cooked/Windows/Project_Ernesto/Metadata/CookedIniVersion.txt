@@ -331,8 +331,6 @@ Engine:Core.System:CanSkipEditorReferencedPackagesWhenCooking:0=False
 Engine:Core.System:CanUseUnversionedPropertySerialization:0=True
 Engine:Core.System:TestUnversionedPropertySerializationWhenCooking:0=False
 Engine:Core.System:DetailedCallstacksInNonMonolithicBuilds:0=True
-Engine:Core.System:AssetLogShowsDiskPath:0=True
-Engine:Core.System:AssetLogShowsAbsolutePath:0=True
 Engine:Core.ContentVirtualization:SystemName:0=None
 Engine:Core.ContentVirtualization:LazyInit:0=False
 Engine:Core.ContentVirtualization:InitPreSlate:0=False
@@ -729,7 +727,7 @@ Engine:/Script/ChaosVD.ChaosVDEditorSettings:SimOnlyMeshesMaterial:0=/ChaosVD/Ma
 Engine:/Script/ChaosVD.ChaosVDEditorSettings:InstancedMeshesMaterial:0=/ChaosVD/Materials/ChaosVDInstanced.ChaosVDInstanced
 Engine:/Script/ChaosVD.ChaosVDEditorSettings:InstancedMeshesQueryOnlyMaterial:0=/ChaosVD/Materials/ChaosVDInstancedQueryOnly.ChaosVDInstancedQueryOnly
 Engine:/Script/ChaosVD.ChaosVDEditorSettings:SkySphereActorClass:0=/ChaosVD/BP_CVD_SkySphere.BP_CVD_SkySphere_C
-Game:/Script/DeveloperToolSettings.PlatformsMenuSettings:StagingDirectory:0=(Path="G/UnrealProject/Project-Ernesto/Build/1")
+Game:/Script/DeveloperToolSettings.PlatformsMenuSettings:StagingDirectory:0=(Path="G/UnrealProject/Project-Ernesto/Build/3")
 Game:/Script/DeveloperToolSettings.PlatformsMenuSettings:PerPlatformBuildConfig:0=(("Windows", PPBC_Shipping))
 Game:/Script/DeveloperToolSettings.PlatformsMenuSettings:LaunchOnTarget:0=
 Game:/Script/DeveloperToolSettings.PlatformsMenuSettings:PerPlatformTargetFlavorName:0=(("Android", "Android_ASTC"))

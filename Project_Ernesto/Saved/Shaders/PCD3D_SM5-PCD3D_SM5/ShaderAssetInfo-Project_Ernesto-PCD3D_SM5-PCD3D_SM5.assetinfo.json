@@ -2,38 +2,9 @@
 	"AssetInfoVersion": 2,
 	"ShaderCodeToAssets": [
 		{
-			"ShaderMapHash": "33ADA700DB788BBEE43E070F14518625EF7DAA50",
-			"Assets": [
-				"/Game/WinterTown/Materials/M_FloorTiles01"
-			]
-		},
-		{
-			"ShaderMapHash": "60CF3002E750B72289EB86E52C4E73B0E8CB8E29",
-			"Assets": [
-				"/Game/FantasyInterior01/Materials/MaterialInstances/MI_Decal_Leaks_01",
-				"/Game/FantasyInterior01/Materials/MaterialInstances/MI_Decal_Leaks_02",
-				"/Game/FantasyInterior01/Materials/MaterialInstances/MI_Decal_Leaks_03",
-				"/Game/FantasyInterior01/Materials/MaterialInstances/MI_Decal_Leaks_04",
-				"/Game/FantasyInterior01/Materials/MaterialInstances/MI_Decal_Leaks_05"
-			]
-		},
-		{
 			"ShaderMapHash": "C05188026FAE8926F5BD8F22D7A3586C63AD3848",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_Tech_Hex_Tile_Pulse"
-			]
-		},
-		{
-			"ShaderMapHash": "1E9BA602FB12FA17B24B5AD0AE9A864929ECC8A0",
-			"Assets": [
-				"/Game/FreeFurniturePack/Materials/M_Round_table"
-			]
-		},
-		{
-			"ShaderMapHash": "5D70C202DCB997C614EDEA94D1EF8CA78910EB0B",
-			"Assets": [
-				"/Game/ModularOldTown/Materials/MI_FlattenRoofWall_Plaster_Moss",
-				"/Game/ModularOldTown/Materials/MI_WallDecor_Moss"
 			]
 		},
 		{
@@ -55,20 +26,11 @@
 			]
 		},
 		{
-			"ShaderMapHash": "458AE204BFA33DE8E6067A031E082F0D19B89A39",
-			"Assets": [
-				"/Game/FantasyInterior01/Materials/MaterialInstances/MI_Letters_01",
-				"/Game/FantasyInterior01/Materials/MaterialInstances/MI_Notes_01"
-			]
-		},
-		{
 			"ShaderMapHash": "A7577B05B00FA4822FF61112145BB6F13F694C25",
 			"Assets": [
 				"/Game/ModularOldTown/Materials/MasterMaterials/M_Hardsurfaces",
 				"/Game/ModularOldTown/Materials/MI_BazaarProps_01",
-				"/Game/ModularOldTown/Materials/MI_BazaarProps_02",
 				"/Game/ModularOldTown/Materials/MI_BazaarProps_03",
-				"/Game/ModularOldTown/Materials/MI_BazaarProps_04",
 				"/Game/ModularOldTown/Materials/MI_BazaarTables"
 			]
 		},
@@ -76,13 +38,6 @@
 			"ShaderMapHash": "C5893F06BBCA361CB2004A12B2CA08B50087BF76",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_Wood_Floor_Walnut_Worn"
-			]
-		},
-		{
-			"ShaderMapHash": "94684B0667980F35C04ED3F3FFCB516C6F607D84",
-			"Assets": [
-				"/Game/OldWest/VOL5/Materials/MI_Rug_02b",
-				"/Game/OldWest/VOL5/Materials/MI_Rug_NN_02b"
 			]
 		},
 		{
@@ -110,50 +65,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "33D3F70A1D68B43889D78EFD1C694C235CF4EF55",
-			"Assets": [
-				"/Game/WinterTown/Materials/M_Bricks01"
-			]
-		},
-		{
 			"ShaderMapHash": "4322100B63CBC0574CCF32609B111DF7B5CF300C",
 			"Assets": [
-				"/Engine/TemplateResources/M_Template_Master",
 				"/Game/FPWeapon/Materials/BaseMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "8122EC0CAC0D9AD6F36D48C652D4035369B6823D",
-			"Assets": [
-				"/Game/WinterTown/Materials/M_PanelWallYellow"
-			]
-		},
-		{
-			"ShaderMapHash": "BF17EE0C4EFF671951A241DE03B6991F7418B102",
-			"Assets": [
-				"/Game/FantasyInterior01/Materials/M_Decal_Master",
-				"/Game/FantasyInterior01/Materials/MaterialInstances/MI_Decal_Dirt_01",
-				"/Game/FantasyInterior01/Materials/MaterialInstances/MI_Decal_Scatter_01"
-			]
-		},
-		{
-			"ShaderMapHash": "17A1260DA42DC9B16E42AF937F18735598AA18FB",
-			"Assets": [
-				"/Game/WinterTown/Materials/M_WiresBlack"
 			]
 		},
 		{
 			"ShaderMapHash": "8C5B870E3117D72D840324DE93EF84AF9E5B4520",
 			"Assets": [
 				"/Game/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI"
-			]
-		},
-		{
-			"ShaderMapHash": "22DE940FF0D7273B9DB01BA6CF5E11C1AE33F312",
-			"Assets": [
-				"/Game/WinterTown/Materials/M_BalconyLeftDoor",
-				"/Game/WinterTown/Materials/M_BalconyRightDoor",
-				"/Game/WinterTown/Materials/M_EnteranceDoor02"
 			]
 		},
 		{
@@ -187,24 +107,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "0F607A12517C5415D434E013F4D07883EBDAFF39",
-			"Assets": [
-				"/Game/WinterTown/Materials/M_Bricks02",
-				"/Game/WinterTown/Materials/M_Snow"
-			]
-		},
-		{
 			"ShaderMapHash": "46EB8D12F84F571E8895B6C963E428BFAC979660",
 			"Assets": [
 				"/Game/FreeFurniturePack/Materials/M_Classic_Picture"
-			]
-		},
-		{
-			"ShaderMapHash": "FC50BB1249E834FA9E4DBD7C303CBE0292644955",
-			"Assets": [
-				"/Game/OldWest/VOL5/Materials/MI_Curtain_NN_03a",
-				"/Game/OldWest/VOL6/Materials/MI_Door_07b",
-				"/Game/OldWest/VOL6/Materials/MI_Shelf_12a"
 			]
 		},
 		{
@@ -235,12 +140,6 @@
 			"ShaderMapHash": "973478181926EC4EBAA040D01D2C6755A5089B76",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_Basic_Wall"
-			]
-		},
-		{
-			"ShaderMapHash": "FC97FE186E8161F22C6863DD7792FB9C491C2216",
-			"Assets": [
-				"/Game/FantasyInterior01/Materials/M_Firewood_01_Preview"
 			]
 		},
 		{
@@ -282,12 +181,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "D904561D5F736435FCE24E23DAE3041452423654",
-			"Assets": [
-				"/Game/WinterTown/Materials/FurnitureMaterials/M_RiverWater01"
-			]
-		},
-		{
 			"ShaderMapHash": "88792E20E71D188E84A72EC99C1D9001DC4BCC68",
 			"Assets": [
 				"/Interchange/gltf/M_Default"
@@ -326,12 +219,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "9D754525B781B8FBDE9FFCC576B58676491FB0C4",
-			"Assets": [
-				"/Game/WinterTown/Materials/M_RoofStep02B"
-			]
-		},
-		{
 			"ShaderMapHash": "B4FFA125D995CE349CF0DD60365F762BD59049C6",
 			"Assets": [
 				"/Game/StarterContent/Blueprints/Assets/M_LightStage_Arrows"
@@ -341,12 +228,6 @@
 			"ShaderMapHash": "4F96A2259D4D4A9562E768E1D95584316A703370",
 			"Assets": [
 				"/Game/FreeFurniturePack/Materials/T_Table_Lamp"
-			]
-		},
-		{
-			"ShaderMapHash": "B6B6F225DA04B91746763E76D3CBF4E5222AAD7F",
-			"Assets": [
-				"/Game/WinterTown/Particles/M_SnowFlakes01"
 			]
 		},
 		{
@@ -368,15 +249,8 @@
 			]
 		},
 		{
-			"ShaderMapHash": "B713B82930085B7014718A8F06E5F3BCA600B3B8",
-			"Assets": [
-				"/Game/ModularOldTown/Materials/MI_Sidewalk"
-			]
-		},
-		{
 			"ShaderMapHash": "C79FD429234900506348124567A5F7233DBA0603",
 			"Assets": [
-				"/Game/FreeFurniturePack/Materials/M_Old_Chair",
 				"/Game/FreeFurniturePack/Materials/M_Old_Table"
 			]
 		},
@@ -387,27 +261,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "FA23192C93FF970276F5381860FF3495910D9684",
-			"Assets": [
-				"/Game/WinterTown/Materials/M_PanelWallTiles"
-			]
-		},
-		{
 			"ShaderMapHash": "80AE8B2D356A64FCE206CFC626BED8C6D4E74FB7",
 			"Assets": [
 				"/Engine/OpenWorldTemplate/LandscapeMaterial/MI_ProcGrid"
-			]
-		},
-		{
-			"ShaderMapHash": "597F262E07D25CE3D6F42CE53553B2CB801020D6",
-			"Assets": [
-				"/Game/ModularOldTown/Materials/MI_Glass"
-			]
-		},
-		{
-			"ShaderMapHash": "FB5BBB30029B4F5C2029B27989E77509F8CF12FB",
-			"Assets": [
-				"/Game/WinterTown/Materials/M_Old_branch"
 			]
 		},
 		{
@@ -426,18 +282,6 @@
 			"ShaderMapHash": "BC34CA333E2A06EC4ED343674C56DB5301676F55",
 			"Assets": [
 				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "421711341B64BC81EC439613400F31322FD61EF0",
-			"Assets": [
-				"/Game/FreeFurniturePack/Materials/M_Elegant_chair"
-			]
-		},
-		{
-			"ShaderMapHash": "0D5DFE3595BF2539AF78DDEDA164AECA00C5FAEE",
-			"Assets": [
-				"/Game/WinterTown/Particles/M_SnowFlakes02"
 			]
 		},
 		{
@@ -471,22 +315,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "3DBA623A394C486B3EB17855F55D44B3C6DEBDE1",
-			"Assets": [
-				"/Game/ModularOldTown/Materials/MI_FlatStonesNoMoss",
-				"/Game/ModularOldTown/Materials/MI_Floor_1m"
-			]
-		},
-		{
 			"ShaderMapHash": "55A97C3ACE263DD71525BE9C1F832466B11941CA",
 			"Assets": [
 				"/Engine/EngineMaterials/DefaultPostProcessMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "2076BA3AF74EAC501B6946F0BE68729654362B16",
-			"Assets": [
-				"/Game/WinterTown/Materials/M_FloorOak"
 			]
 		},
 		{
@@ -499,12 +330,6 @@
 			"ShaderMapHash": "C90BD93AFED20A89EEB5D587827B8E92E5B790E6",
 			"Assets": [
 				"/Game/FreeFurniturePack/Materials/M_Military_Bed_Matress_with_Blanket"
-			]
-		},
-		{
-			"ShaderMapHash": "75AED43B4349F4C47C16C47CE7101D96B24699C5",
-			"Assets": [
-				"/Engine/EditorMeshes/ColorCalibrator/M_ChromeBall"
 			]
 		},
 		{
@@ -526,41 +351,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "3D1D5540D146BF74B14D3CD8219A2DC827122E9A",
-			"Assets": [
-				"/Game/WinterTown/Materials/M_Bricks03"
-			]
-		},
-		{
-			"ShaderMapHash": "CA76C5405683E68EFE8F1C8FAC7649AB66A41EEA",
-			"Assets": [
-				"/Game/FreeFurniturePack/Materials/MM_Armchair"
-			]
-		},
-		{
 			"ShaderMapHash": "982CF341BF7A6448DA431476A63B2CB9325079CC",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_Concrete_Tiles"
-			]
-		},
-		{
-			"ShaderMapHash": "6A5C14428767B959455878D194E7A7C38F7639EC",
-			"Assets": [
-				"/Game/WinterTown/Materials/M_WindowGlass03",
-				"/Game/WinterTown/Materials/M_WindowGlass03Hall",
-				"/Game/WinterTown/Materials/M_WindowGlass03Wide"
-			]
-		},
-		{
-			"ShaderMapHash": "E0DA4242FBB07110CBBEAF301F7F58C8EA6E6ADB",
-			"Assets": [
-				"/Game/FreeFurniturePack/Materials/M_Modern_Bed_2"
-			]
-		},
-		{
-			"ShaderMapHash": "4D7CDD42242ACCD8F8CA76DDC1AF1AF136685E8E",
-			"Assets": [
-				"/Game/FreeFurniturePack/Materials/MM_Tables_and_Chairs"
 			]
 		},
 		{
@@ -594,41 +387,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "34BD8A4659B8310AD83DC6159E00C3C4022C1818",
-			"Assets": [
-				"/Game/FantasyInterior01/Materials/M_LightColor_Mat"
-			]
-		},
-		{
 			"ShaderMapHash": "289DBC46AE555E47D810358F1AF1774A6D88F734",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_Ground_Moss"
 			]
 		},
 		{
-			"ShaderMapHash": "0F01CC46B7E41AE158FDC8A7880185849AE3DFD5",
-			"Assets": [
-				"/Game/WinterTown/Materials/M_BalconyExterior03"
-			]
-		},
-		{
 			"ShaderMapHash": "0D838147DF8D01C5C1647B834BC026E4CB2D79EF",
 			"Assets": [
 				"/Game/ModularOldTown/Materials/MasterMaterials/M_NaniteGlass"
-			]
-		},
-		{
-			"ShaderMapHash": "246CF74755CC1CE9B99D120E3FCD481379BEBA02",
-			"Assets": [
-				"/Game/WinterTown/Materials/M_ConcreteHedge01"
-			]
-		},
-		{
-			"ShaderMapHash": "F54C26481C477422D44630D279AA089C569B9170",
-			"Assets": [
-				"/Game/FreeFurniturePack/Materials/M_Classic_Leather_armchair",
-				"/Game/FreeFurniturePack/Materials/M_Classic_Leather_sofa",
-				"/Game/FreeFurniturePack/Materials/M_Classic_Leather_sofa_2"
 			]
 		},
 		{
@@ -664,14 +431,7 @@
 		{
 			"ShaderMapHash": "CEA72E4DE4ECB65B3FC8366FEF2C7CA1AD0D2F96",
 			"Assets": [
-				"/Game/Furniture_Free/Materials/M_Material",
-				"/Game/WinterTown/Materials/M_brake01"
-			]
-		},
-		{
-			"ShaderMapHash": "DF39374EE9D5A0C2F9FB76CCABCD2FAA2761F4E4",
-			"Assets": [
-				"/Game/OldWest/Shared/Materials/MM_Foliage_Master_01a"
+				"/Game/Furniture_Free/Materials/M_Material"
 			]
 		},
 		{
@@ -691,18 +451,6 @@
 			"ShaderMapHash": "B51A7D505AA5559D9530D3924E4E654D36742491",
 			"Assets": [
 				"/Game/ModularOldTown/Materials/MasterMaterials/M_Vegetation"
-			]
-		},
-		{
-			"ShaderMapHash": "97F3C851A3B4B38FD9B77BBF9D4F39E4F8D4DE08",
-			"Assets": [
-				"/Game/FantasyInterior01/Materials/M_Spiderwebs_01"
-			]
-		},
-		{
-			"ShaderMapHash": "E081DE529729E562A451433DA1683D75C11C5629",
-			"Assets": [
-				"/Game/ModularOldTown/Materials/MI_Floor_1m_DecalUseMoss"
 			]
 		},
 		{
@@ -733,52 +481,13 @@
 			"ShaderMapHash": "E95BB6548F0FBCC1C8EA73D607BCD39300AF537A",
 			"Assets": [
 				"/Game/WinterTown/Materials/M_BalconyExterior01",
-				"/Game/WinterTown/Materials/M_BalconyExterior02",
-				"/Game/WinterTown/Materials/M_BalconyExteriorFrame01",
-				"/Game/WinterTown/Materials/M_BalconyExteriorFrame02",
-				"/Game/WinterTown/Materials/M_BuildingCornerDecor01",
-				"/Game/WinterTown/Materials/M_BuildingCornerDecor02",
-				"/Game/WinterTown/Materials/M_ConcreteGrimeGrey01",
-				"/Game/WinterTown/Materials/M_DoorFrame01",
-				"/Game/WinterTown/Materials/M_DoorFrame02",
-				"/Game/WinterTown/Materials/M_DoorSmall01",
-				"/Game/WinterTown/Materials/M_DoorSmall02",
-				"/Game/WinterTown/Materials/M_DoorSmall03",
-				"/Game/WinterTown/Materials/M_EnteranceRoof01",
-				"/Game/WinterTown/Materials/M_HallwayRails01",
-				"/Game/WinterTown/Materials/M_HallwayRails02",
-				"/Game/WinterTown/Materials/M_Road01Cleaner",
-				"/Game/WinterTown/Materials/M_Road01Snowy",
-				"/Game/WinterTown/Materials/M_RoofStepLeft",
-				"/Game/WinterTown/Materials/M_RoofStepMiddle01",
-				"/Game/WinterTown/Materials/M_RoofStepRight01",
-				"/Game/WinterTown/Materials/M_SewerHatch01",
-				"/Game/WinterTown/Materials/M_SewerHatchBase",
-				"/Game/WinterTown/Materials/M_TireClean",
-				"/Game/WinterTown/Materials/M_TireSnowy01",
-				"/Game/WinterTown/Materials/M_TireSnowy02",
-				"/Game/WinterTown/Materials/M_WallHall",
-				"/Game/WinterTown/Materials/M_WallHall02",
-				"/Game/WinterTown/Materials/M_WallHall03",
-				"/Game/WinterTown/Materials/MI_BalconyExterior02"
+				"/Game/WinterTown/Materials/M_SewerHatch01"
 			]
 		},
 		{
 			"ShaderMapHash": "AFA60555466AC2D3C58DA51288B3098FCD0818BE",
 			"Assets": [
 				"/Interchange/gltf/M_Sheen"
-			]
-		},
-		{
-			"ShaderMapHash": "6E4F5C557E07420EEC95E0E594C00B4BDF58B5D4",
-			"Assets": [
-				"/Game/WinterTown/Materials/M_Branch01"
-			]
-		},
-		{
-			"ShaderMapHash": "B9B6D45556F31E84A8020187FFF570DE90F23EF6",
-			"Assets": [
-				"/Game/OldWest/Shared/Materials/MM_PP_Sharpen"
 			]
 		},
 		{
@@ -812,12 +521,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "E1975E570B33202A05C61BEB6799E8B966B58AAC",
-			"Assets": [
-				"/Game/WinterTown/Materials/M_bark02"
-			]
-		},
-		{
 			"ShaderMapHash": "9B59E757AE9C14081071352103CD43DB8FF53A23",
 			"Assets": [
 				"/Engine/EngineDebugMaterials/DebugMeshMaterial"
@@ -836,28 +539,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "81D197599A0D0D81B6E4263DAFB6D934ED99F80E",
-			"Assets": [
-				"/Game/FantasyInterior01/Materials/M_Ash"
-			]
-		},
-		{
-			"ShaderMapHash": "71851F5C1DAC9B783E1163B1DF651E519DA45096",
-			"Assets": [
-				"/Game/OldWest/VOL6/Materials/MI_Saw_Blades_01a"
-			]
-		},
-		{
 			"ShaderMapHash": "F63C605C8423AAB9E465E86BF644EEAC4C9ED274",
 			"Assets": [
 				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "EB789F5C511F35561CD76D9F43C4EF8FF2591A5C",
-			"Assets": [
-				"/Game/FreeFurniturePack/Materials/M_Bed_Lamp_1",
-				"/Game/FreeFurniturePack/Materials/M_Bed_Lamp_2"
 			]
 		},
 		{
@@ -904,23 +588,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "53DC5C5F8A294CBAC939FF4231C9278914C2925D",
-			"Assets": [
-				"/Game/OldWest/VOL5/Materials/MI_Curtain_02a",
-				"/Game/OldWest/VOL5/Materials/MI_Curtain_NN_02a"
-			]
-		},
-		{
 			"ShaderMapHash": "0EDFE56103209014D91F0C660BBFBF31B623ABA0",
 			"Assets": [
-				"/Game/ModularOldTown/Materials/MI_BazaarProps_01_TwoSided",
 				"/Game/ModularOldTown/Materials/MI_BazaarTableCloth"
-			]
-		},
-		{
-			"ShaderMapHash": "FFDFF26140597D40C7DDB29AEF8E4F5A380D8BEF",
-			"Assets": [
-				"/Game/WinterTown/Materials/M_bark09"
 			]
 		},
 		{
@@ -951,18 +621,6 @@
 			"ShaderMapHash": "7754556757CDE3B6339979C9B23F6026BB72D09E",
 			"Assets": [
 				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Opaque_DS"
-			]
-		},
-		{
-			"ShaderMapHash": "7C0B65681013EED6EA24AAF4AD80F41E3F710FE8",
-			"Assets": [
-				"/Game/FantasyInterior01/Materials/M_WhiteMat"
-			]
-		},
-		{
-			"ShaderMapHash": "FF53D06801DEDA0545782284C2D60B8363EE3D3A",
-			"Assets": [
-				"/Game/WinterTown/Particles/M_SnowUnlit"
 			]
 		},
 		{
@@ -1020,21 +678,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "C3155A768BEB3B1E3C3CA58766B5C368CD99AA7E",
-			"Assets": [
-				"/Game/WinterTown/Particles/M_Snow"
-			]
-		},
-		{
 			"ShaderMapHash": "04F70078834F0586CECF0549C570A8D55B4C73CC",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_Water_Lake"
-			]
-		},
-		{
-			"ShaderMapHash": "221A2E78DBA0CE0CE8848BB3EE39565B3F667D20",
-			"Assets": [
-				"/Game/FreeFurniturePack/Materials/M_Modern_Table_top"
 			]
 		},
 		{
@@ -1050,36 +696,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "E8AD867C88E6513E9A010B07381ABC834CA807F7",
-			"Assets": [
-				"/Game/WinterTown/Materials/M_RooftopAttic02",
-				"/Game/WinterTown/Materials/M_RooftopAttic02Clean"
-			]
-		},
-		{
 			"ShaderMapHash": "3F40957C67E73285D2AA0EAE768D399A5D6B0CD8",
 			"Assets": [
-				"/Game/FantasyInterior01/Materials/M_Asset_Glass",
-				"/Game/FantasyInterior01/Materials/MaterialInstances/MI_Vial_01",
-				"/Game/FantasyInterior01/Materials/MaterialInstances/MI_Vial_07_Glass"
-			]
-		},
-		{
-			"ShaderMapHash": "D9B24A7DD17A1BFCC32B205DE952D5BDDFA8F859",
-			"Assets": [
-				"/Game/WinterTown/Materials/M_WindowGlass02Lit"
+				"/Game/FantasyInterior01/Materials/M_Asset_Glass"
 			]
 		},
 		{
 			"ShaderMapHash": "1C7D6D7EC1D0CDC2FA29C1E1957EFB162C3E1841",
 			"Assets": [
 				"/Game/StarterContent/Props/Materials/M_Door"
-			]
-		},
-		{
-			"ShaderMapHash": "F230927E14F7556E2DDCEB417A74FB1D752D8C6F",
-			"Assets": [
-				"/Game/WinterTown/Materials/FurnitureMaterials/M_ChainLink"
 			]
 		},
 		{
@@ -1116,18 +741,6 @@
 			"ShaderMapHash": "1649C0853736D8B6A3EE639415A26B6DE8B2B159",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_Rock_Sandstone"
-			]
-		},
-		{
-			"ShaderMapHash": "AD4ED18582BB1DA3D409E206056A624F9AE8E009",
-			"Assets": [
-				"/Game/ModularOldTown/Materials/MI_Cliff_05"
-			]
-		},
-		{
-			"ShaderMapHash": "DCBFBD86AE75119285F10224D34484AB0EDCEDF3",
-			"Assets": [
-				"/Game/WinterTown/Materials/M_bark06"
 			]
 		},
 		{
@@ -1197,27 +810,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "8386A2931C08831C4E417499690D1679B7D9B668",
-			"Assets": [
-				"/Game/WinterTown/Particles/M_Steam"
-			]
-		},
-		{
-			"ShaderMapHash": "D60275940DD279CAC062A27901A0B1E097F06141",
-			"Assets": [
-				"/Game/FreeFurniturePack/Materials/M_Modern_Table_bottom"
-			]
-		},
-		{
 			"ShaderMapHash": "D611D79479D912773B7C1BD89EED9DC2ED740EE3",
 			"Assets": [
 				"/Game/FreeFurniturePack/Materials/M_Toilet"
-			]
-		},
-		{
-			"ShaderMapHash": "9D90FD94E540D8E77903AF681CD6FAAE350AC66B",
-			"Assets": [
-				"/Game/OldWest/Shared/Materials/MM_Glass_01a"
 			]
 		},
 		{
@@ -1231,12 +826,6 @@
 			"Assets": [
 				"/Engine/EngineMaterials/FlattenMaterial",
 				"/Engine/EngineMaterials/FlattenMaterial_VT"
-			]
-		},
-		{
-			"ShaderMapHash": "C87E0A96F225AD7266CC0CED521B85F5A90FC929",
-			"Assets": [
-				"/Game/WinterTown/Materials/M_Lightbulb01"
 			]
 		},
 		{
@@ -1264,33 +853,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "34BEA5961BCA09FD7036041974BEEE8457CE26AB",
-			"Assets": [
-				"/Game/OldWest/VOL6/Materials/MI_Outdoor_Lighting_01a"
-			]
-		},
-		{
 			"ShaderMapHash": "4A7FDE974338BDE55E9DE2536DA76DD0D38ED812",
 			"Assets": [
 				"/Game/JapaneseFurniture_Modern/Materials/M_Glass"
-			]
-		},
-		{
-			"ShaderMapHash": "0C11F897C890EAED8F16BD81AE8FE75B1B00301B",
-			"Assets": [
-				"/Game/WinterTown/Materials/M_SpruceLOD"
-			]
-		},
-		{
-			"ShaderMapHash": "9397B6982BACA3D5D1944CAFCCD0C43DEFE0793F",
-			"Assets": [
-				"/Game/ModularOldTown/Materials/MI_FlatStoneWall"
-			]
-		},
-		{
-			"ShaderMapHash": "501FAA991785DF69042F6E3A9B8B78B645E0A509",
-			"Assets": [
-				"/Game/WinterTown/Materials/M_BalconyExtGlass01"
 			]
 		},
 		{
@@ -1355,22 +920,10 @@
 			]
 		},
 		{
-			"ShaderMapHash": "E05C12A054F27405DAE75FF472C642B30F6F5725",
-			"Assets": [
-				"/Game/WinterTown/Materials/M_Bricks04"
-			]
-		},
-		{
 			"ShaderMapHash": "57585EA050E33C9378CACCD8026785CA4D9CCDE2",
 			"Assets": [
 				"/Game/StarterContent/Particles/Materials/M_Radial_Gradient",
 				"/Game/StarterContent/Particles/Materials/M_radial_ramp"
-			]
-		},
-		{
-			"ShaderMapHash": "7A6682A00C3DD4002CDED570069B27C9B635C407",
-			"Assets": [
-				"/Engine/EditorMeshes/ColorCalibrator/M_ClearCoat"
 			]
 		},
 		{
@@ -1380,21 +933,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "6FEA2BA2EC3C2436F60107E164522AE5A4927280",
-			"Assets": [
-				"/Game/WinterTown/Materials/M_pine_leaf"
-			]
-		},
-		{
 			"ShaderMapHash": "657FB4A4187A1316DB378EF1FE78B3D796D40DB6",
 			"Assets": [
 				"/Game/FreeFurniturePack/Materials/M_Chrome"
-			]
-		},
-		{
-			"ShaderMapHash": "4700F5A4AF4A83420ED4F148EBBFB8B1B9C66C4A",
-			"Assets": [
-				"/Game/FreeFurniturePack/Materials/M_Coffee_Table"
 			]
 		},
 		{
@@ -1410,27 +951,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "72F3A8A87C85F0A5B89287E1F249F3579AAD2B16",
-			"Assets": [
-				"/Game/FantasyInterior01/Materials/M_Gradient_Mat"
-			]
-		},
-		{
-			"ShaderMapHash": "D27E9EA921DE0E028D693D552068995687B92A00",
-			"Assets": [
-				"/Game/WinterTown/Materials/M_bark10"
-			]
-		},
-		{
 			"ShaderMapHash": "83BF2FAACE2A5A03DB2110BD8144EB4A00E5E623",
 			"Assets": [
 				"/ControlRig/Controls/ControlRigXRayMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "13F282AA1E8E06D0EB34A49817717C96F2552C93",
-			"Assets": [
-				"/Game/OldWest/Shared/Materials/MM_Impostor_SimpleOffset"
 			]
 		},
 		{
@@ -1442,20 +965,16 @@
 		{
 			"ShaderMapHash": "BBBFBDAC866812436128F5601F3BD303CC96ECD1",
 			"Assets": [
-				"/Game/ModularOldTown/Materials/MI_Background",
 				"/Game/ModularOldTown/Materials/MI_Cliff_01",
 				"/Game/ModularOldTown/Materials/MI_Cliff_02",
 				"/Game/ModularOldTown/Materials/MI_Cliff_03",
-				"/Game/ModularOldTown/Materials/MI_Cliff_04",
 				"/Game/ModularOldTown/Materials/MI_Rocks"
 			]
 		},
 		{
 			"ShaderMapHash": "06760BAFB23A67954A9F4C3BF3F49CEE626CA722",
 			"Assets": [
-				"/Game/OldWest/VOL5/Materials/MI_Curtain_01a",
-				"/Game/OldWest/VOL5/Materials/MI_Curtain_03a",
-				"/Game/OldWest/VOL5/Materials/MI_Curtain_NN_01a"
+				"/Game/OldWest/VOL5/Materials/MI_Curtain_01a"
 			]
 		},
 		{
@@ -1483,58 +1002,21 @@
 			]
 		},
 		{
-			"ShaderMapHash": "2A69FBB090873CE9073D5571CF68CBCA5F7F67FE",
-			"Assets": [
-				"/Game/FantasyInterior01/Materials/MaterialInstances/MI_Ash_01"
-			]
-		},
-		{
 			"ShaderMapHash": "AFBF29B1E0C9B3B6341B8077BBF33DC0A048EB5D",
 			"Assets": [
 				"/Interchange/gltf/MaterialInstances/MI_Unlit_Opaque_DS"
 			]
 		},
 		{
-			"ShaderMapHash": "D77F50B2F8EDF664D6235CF4106CB389262C3CC6",
-			"Assets": [
-				"/Game/OldWest/VOL6/Materials/MI_Candles_01a"
-			]
-		},
-		{
 			"ShaderMapHash": "AD7690B2F0FED87DD65AC43C09A16875FF10CD57",
 			"Assets": [
-				"/Game/ModularOldTown/Materials/MasterMaterials/M_TriplanarUVs",
-				"/Game/ModularOldTown/Materials/MI_Ceiling_1m",
-				"/Game/ModularOldTown/Materials/MI_Ceiling_1m_Corner",
-				"/Game/ModularOldTown/Materials/MI_Ceiling_1m_Corner_R",
-				"/Game/ModularOldTown/Materials/MI_Ceiling_2m",
-				"/Game/ModularOldTown/Materials/MI_Ceiling_3m",
-				"/Game/ModularOldTown/Materials/MI_Floor_2m",
-				"/Game/ModularOldTown/Materials/MI_Floor_3m"
+				"/Game/ModularOldTown/Materials/MasterMaterials/M_TriplanarUVs"
 			]
 		},
 		{
 			"ShaderMapHash": "91D6F4B24960D738DF2127F09DF4517F704789CD",
 			"Assets": [
 				"/Engine/EngineMaterials/NaniteHiddenSectionMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "88DC81B340EC135820FEE2BAA78B28EC724CE9BF",
-			"Assets": [
-				"/Game/JapaneseFurniture_Modern/Materials/M_unsharpmask"
-			]
-		},
-		{
-			"ShaderMapHash": "9AA302B424F0E62D9ACED9A69A8A6614E7B3CF5A",
-			"Assets": [
-				"/Game/WinterTown/Materials/M_EnteranceDoor01"
-			]
-		},
-		{
-			"ShaderMapHash": "77D904B4F1C98026ADA36627C4BDCBE2835003A0",
-			"Assets": [
-				"/Game/WinterTown/Materials/M_LandscapeSnow01"
 			]
 		},
 		{
@@ -1546,7 +1028,6 @@
 		{
 			"ShaderMapHash": "0CA6BCB4A5E8761CCA4562750B80F589E497510B",
 			"Assets": [
-				"/Game/ModularOldTown/Materials/MI_LampPost",
 				"/Game/ModularOldTown/Materials/MI_LionHead"
 			]
 		},
@@ -1557,15 +1038,8 @@
 			]
 		},
 		{
-			"ShaderMapHash": "5C03ECB8151732C960DB1C62AC435BE2F8149BCE",
-			"Assets": [
-				"/Game/FantasyInterior01/Materials/MaterialInstances/MI_Chandelier_01"
-			]
-		},
-		{
 			"ShaderMapHash": "554848B92323C506DDCAF146B4E8047D1CE81761",
 			"Assets": [
-				"/Game/JapaneseFurniture_Modern/Materials/Fabric/MI_Fabric",
 				"/Game/JapaneseFurniture_Modern/Materials/Fabric/MI_Fabric_Dense",
 				"/Game/JapaneseFurniture_Modern/Materials/Fabric/MI_FabricWhite",
 				"/Game/JapaneseFurniture_Modern/Materials/M_MasterSurface"
@@ -1584,28 +1058,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "7AC748BA56A31D1F81BBE5166B608024EF2255D9",
-			"Assets": [
-				"/Engine/EditorMeshes/ColorCalibrator/M_ColorGrid"
-			]
-		},
-		{
-			"ShaderMapHash": "B4C6AABA5FFA858578812C25CE51D20C16A425BD",
-			"Assets": [
-				"/Game/WinterTown/Materials/M_FloorConcrete"
-			]
-		},
-		{
-			"ShaderMapHash": "CC93FFBA35C9063AC02AE73926733510CEDECD4F",
-			"Assets": [
-				"/Game/WinterTown/Materials/M_AsphaltBroken"
-			]
-		},
-		{
 			"ShaderMapHash": "1277F8BB91E5F502ED1FD4B7EDB84974D33589AF",
 			"Assets": [
-				"/Game/ModularOldTown/Materials/MasterMaterials/M_FlatStones",
-				"/Game/ModularOldTown/Materials/MI_FlatStoneWall_NOMoss"
+				"/Game/ModularOldTown/Materials/MasterMaterials/M_FlatStones"
 			]
 		},
 		{
@@ -1615,21 +1070,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "812F12BDEAECFD2DD64D451DBA35FE02183C698F",
-			"Assets": [
-				"/Game/OldWest/Shared/Materials/MI_Demo_Floor_01a"
-			]
-		},
-		{
 			"ShaderMapHash": "0B6EC5BD11B2520822F12902F8F0FFA65F04778C",
 			"Assets": [
 				"/Game/FPWeapon/Materials/M_FPGun"
-			]
-		},
-		{
-			"ShaderMapHash": "2A4399BEC7154BEA9D4406D9136F766C1353E28F",
-			"Assets": [
-				"/Game/OldWest/Shared/Materials/MM_Master_Foliage_01a"
 			]
 		},
 		{
@@ -1639,32 +1082,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "DB3B33C1CB2416C506A846FDFC279A71C2EEC53F",
-			"Assets": [
-				"/Engine/EngineMaterials/AntiAliasedTextMaterialTranslucent"
-			]
-		},
-		{
-			"ShaderMapHash": "5F88B0C161A681373F4DE332717E26FED98B6602",
-			"Assets": [
-				"/Game/WinterTown/Materials/M_Grass01"
-			]
-		},
-		{
 			"ShaderMapHash": "0F4BD8C27F62295114FB9ED88BF404E5E9D8FF25",
 			"Assets": [
 				"/Engine/EngineMaterials/DefaultMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "DB69E9C5873B91C76E408F5AF5B5705DC9299C57",
-			"Assets": [
-				"/Game/WinterTown/Materials/M_BalconyExterior04",
-				"/Game/WinterTown/Materials/M_BalconyExterior05",
-				"/Game/WinterTown/Materials/M_BalconyExterior06",
-				"/Game/WinterTown/Materials/M_BalconyExteriorRods01",
-				"/Game/WinterTown/Materials/M_BalconyExteriorRods02",
-				"/Game/WinterTown/Materials/M_BalconyExteriorRods03"
 			]
 		},
 		{
@@ -1674,39 +1094,14 @@
 			]
 		},
 		{
-			"ShaderMapHash": "1ACB2EC6F4D737B998985FC73065011E94C5468E",
-			"Assets": [
-				"/Game/WinterTown/Textures/T_spruce_leaf"
-			]
-		},
-		{
-			"ShaderMapHash": "FAC69FC7C134B6F2F1CCB0399F1D2CB400973B22",
-			"Assets": [
-				"/Game/OldWest/VOL5/Materials/MI_Chair_05a"
-			]
-		},
-		{
 			"ShaderMapHash": "6E48F2C718D6BC52B0CB6B43CDD479FC6DC8AC86",
 			"Assets": [
 				"/Engine/EngineMaterials/DefaultTextMaterialOpaque"
 			]
 		},
 		{
-			"ShaderMapHash": "64D40BC89C8913338D88352AFA77023B49F29A10",
-			"Assets": [
-				"/Game/WinterTown/Materials/M_Wallpaper01"
-			]
-		},
-		{
-			"ShaderMapHash": "6CF78EC87ED91AF413D525CBC7C7DDF7725F6443",
-			"Assets": [
-				"/Engine/EditorMeshes/ColorCalibrator/M_GreyBall"
-			]
-		},
-		{
 			"ShaderMapHash": "BAD956C98FEC88F36EC3E7DDB6F7882EF2A4B41A",
 			"Assets": [
-				"/Game/WinterTown/Materials/M_Boards01",
 				"/Game/WinterTown/Materials/M_SatDish01"
 			]
 		},
@@ -1726,24 +1121,6 @@
 			"ShaderMapHash": "4A0733CB266EF86EC7C44D8A9F48B0CC7159D927",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_Metal_Gold"
-			]
-		},
-		{
-			"ShaderMapHash": "26799ECCAD42AFB5B74E61C4500175ABF92CB802",
-			"Assets": [
-				"/Game/WinterTown/Materials/M_Window02"
-			]
-		},
-		{
-			"ShaderMapHash": "D5DA25CD57DE44A2E25781D2AEE751418BCAA82F",
-			"Assets": [
-				"/Game/ModularOldTown/Materials/MI_FlatStones"
-			]
-		},
-		{
-			"ShaderMapHash": "7B046DCDB31B0673A250B2DBBE094FB2B0784C05",
-			"Assets": [
-				"/Game/WinterTown/Materials/M_Window01"
 			]
 		},
 		{
@@ -1773,8 +1150,7 @@
 		{
 			"ShaderMapHash": "C2BAACD0D39ECC6FB2D850E810A443DF98612C29",
 			"Assets": [
-				"/Game/LevelData/Trattoria",
-				"/Game/Test3DEnvironment/Levels/Test3dScene"
+				"/Game/LevelData/Trattoria"
 			]
 		},
 		{
@@ -1796,45 +1172,13 @@
 			]
 		},
 		{
-			"ShaderMapHash": "477C7BD2B15D5FEE3184712B176269B50850C6FD",
-			"Assets": [
-				"/Game/WinterTown/Particles/M_SnowFlakes03"
-			]
-		},
-		{
 			"ShaderMapHash": "F75C8DD5404C6AA473633748F5326FD861A0B146",
 			"Assets": [
-				"/Game/ModularOldTown/Materials/MI_ArchedDoorFrame",
-				"/Game/ModularOldTown/Materials/MI_ArchedWinFrame",
-				"/Game/ModularOldTown/Materials/MI_Awning",
-				"/Game/ModularOldTown/Materials/MI_Bench",
-				"/Game/ModularOldTown/Materials/MI_Concrate",
 				"/Game/ModularOldTown/Materials/MI_Door_B",
-				"/Game/ModularOldTown/Materials/MI_DriedGrouds",
-				"/Game/ModularOldTown/Materials/MI_Exterior",
-				"/Game/ModularOldTown/Materials/MI_Exterior_B",
 				"/Game/ModularOldTown/Materials/MI_Exterior_C",
-				"/Game/ModularOldTown/Materials/MI_Exterior_D",
-				"/Game/ModularOldTown/Materials/MI_FlattenRoofWall_Plaster",
-				"/Game/ModularOldTown/Materials/MI_FlattenWall_Brick",
-				"/Game/ModularOldTown/Materials/MI_FlattenWall_Plaster",
-				"/Game/ModularOldTown/Materials/MI_Floor_1m_DecalDark",
-				"/Game/ModularOldTown/Materials/MI_GrateDoor",
-				"/Game/ModularOldTown/Materials/MI_GreatBalcony_A",
-				"/Game/ModularOldTown/Materials/MI_GreatBalcony_A02",
-				"/Game/ModularOldTown/Materials/MI_GreatBalcony_B",
-				"/Game/ModularOldTown/Materials/MI_OpenableWindow",
 				"/Game/ModularOldTown/Materials/MI_Ornaments",
 				"/Game/ModularOldTown/Materials/MI_RoofWallFrame",
-				"/Game/ModularOldTown/Materials/MI_Shutter",
-				"/Game/ModularOldTown/Materials/MI_Shutter_Blue",
-				"/Game/ModularOldTown/Materials/MI_ShutterRockFrame",
-				"/Game/ModularOldTown/Materials/MI_SquareWinFrame_Brick",
-				"/Game/ModularOldTown/Materials/MI_SquareWinFrame_Marble",
-				"/Game/ModularOldTown/Materials/MI_TerraPots_A",
-				"/Game/ModularOldTown/Materials/MI_TerraPots_B",
-				"/Game/ModularOldTown/Materials/MI_WallDecor",
-				"/Game/ModularOldTown/Materials/MI_WallDecor_B"
+				"/Game/ModularOldTown/Materials/MI_TerraPots_A"
 			]
 		},
 		{
@@ -1852,56 +1196,10 @@
 		{
 			"ShaderMapHash": "634031D8EE42742E0281B5533F92B64F602E8E37",
 			"Assets": [
-				"/Game/WinterTown/Materials/FurnitureMaterials/M_Bed01",
-				"/Game/WinterTown/Materials/FurnitureMaterials/M_Bed02",
-				"/Game/WinterTown/Materials/FurnitureMaterials/M_Chair01",
-				"/Game/WinterTown/Materials/FurnitureMaterials/M_Chair02",
 				"/Game/WinterTown/Materials/FurnitureMaterials/M_Cupboard01",
-				"/Game/WinterTown/Materials/FurnitureMaterials/M_Cupboard02",
-				"/Game/WinterTown/Materials/FurnitureMaterials/M_Cupboard03",
-				"/Game/WinterTown/Materials/FurnitureMaterials/M_Fridge01",
-				"/Game/WinterTown/Materials/FurnitureMaterials/M_Fridge02",
-				"/Game/WinterTown/Materials/FurnitureMaterials/M_RadiatorPiece01",
-				"/Game/WinterTown/Materials/FurnitureMaterials/M_RadiatorPiece02",
-				"/Game/WinterTown/Materials/FurnitureMaterials/M_RadiatorPipe01",
-				"/Game/WinterTown/Materials/FurnitureMaterials/M_RadiatorPipe02",
-				"/Game/WinterTown/Materials/FurnitureMaterials/M_Table01",
-				"/Game/WinterTown/Materials/FurnitureMaterials/M_Table02",
-				"/Game/WinterTown/Materials/FurnitureMaterials/M_Table03",
 				"/Game/WinterTown/Materials/M_Antenna01",
 				"/Game/WinterTown/Materials/M_Bench01",
-				"/Game/WinterTown/Materials/M_Bench02",
-				"/Game/WinterTown/Materials/M_Bench03",
-				"/Game/WinterTown/Materials/M_Boards02",
-				"/Game/WinterTown/Materials/M_Boards03",
-				"/Game/WinterTown/Materials/M_Boards04",
-				"/Game/WinterTown/Materials/M_CeilingLight01",
-				"/Game/WinterTown/Materials/M_Drain01",
-				"/Game/WinterTown/Materials/M_Drain02",
-				"/Game/WinterTown/Materials/M_HallWindowFrame01",
-				"/Game/WinterTown/Materials/M_HallWindowFrame02",
-				"/Game/WinterTown/Materials/M_Ladder01",
-				"/Game/WinterTown/Materials/M_LampPost01",
-				"/Game/WinterTown/Materials/M_LampPost02",
-				"/Game/WinterTown/Materials/M_LampPost03",
-				"/Game/WinterTown/Materials/M_LightWall01",
-				"/Game/WinterTown/Materials/M_Pipe3m01",
-				"/Game/WinterTown/Materials/M_Pipe3m01Snowy",
-				"/Game/WinterTown/Materials/M_Pipe3m02",
-				"/Game/WinterTown/Materials/M_Pipe3m02Snowy",
-				"/Game/WinterTown/Materials/M_Plywood01",
-				"/Game/WinterTown/Materials/M_Plywood02Snowy",
-				"/Game/WinterTown/Materials/M_RoofHedge01",
-				"/Game/WinterTown/Materials/M_RoofHedge02",
-				"/Game/WinterTown/Materials/M_SatDish02",
-				"/Game/WinterTown/Materials/M_SatDish03",
 				"/Game/WinterTown/Materials/M_WindowGrid01"
-			]
-		},
-		{
-			"ShaderMapHash": "81381CD92B7726298BAB51AF2132E0088F8CA54F",
-			"Assets": [
-				"/Game/WinterTown/Materials/M_RoofStep02"
 			]
 		},
 		{
@@ -1911,27 +1209,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "34D93CDAE2D7A39C579C90DEEE4C0B6F2A5D77E0",
-			"Assets": [
-				"/Engine/EditorMeshes/ColorCalibrator/M_ClearCoatBlack"
-			]
-		},
-		{
 			"ShaderMapHash": "7089F9DA3E85205A458941E29DD599A9CD007D9B",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_Concrete_Grime"
-			]
-		},
-		{
-			"ShaderMapHash": "81D823DCBD372E0EFD9F41617C100C4514938A2B",
-			"Assets": [
-				"/Game/FreeFurniturePack/Materials/M_Military_Bed_Matress"
-			]
-		},
-		{
-			"ShaderMapHash": "F6315FDCC3F7D27FAAF9B9C0A7F80524AF091D0A",
-			"Assets": [
-				"/Game/WinterTown/Materials/M_RooftopAttic01"
 			]
 		},
 		{
@@ -1941,33 +1221,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "95DC01DDDE13B13B5DDC9B659BA97F6E5AE9C852",
-			"Assets": [
-				"/Game/ModularOldTown/Materials/MI_Sidewalk_B"
-			]
-		},
-		{
 			"ShaderMapHash": "150070DD4EA6C04D8BE3C2CA1A3B2E4E41068B2D",
 			"Assets": [
 				"/Interchange/gltf/MaterialInstances/MI_Unlit_Mask_DS"
 			]
 		},
 		{
-			"ShaderMapHash": "5E3CDDDD0E15524DC0D8A060E2D8FE8C0B1C7764",
-			"Assets": [
-				"/Game/FantasyInterior01/Materials/M_Firewood_01"
-			]
-		},
-		{
 			"ShaderMapHash": "43E278DF2DFB8D936EB21D983B4FF9EB719E5A05",
 			"Assets": [
 				"/Interchange/gltf/M_Unlit"
-			]
-		},
-		{
-			"ShaderMapHash": "2E9829E0D1FF0F21C95ED4FCFC824964DBBF1D77",
-			"Assets": [
-				"/Game/WinterTown/Materials/M_RoofTiles01"
 			]
 		},
 		{
@@ -1979,20 +1241,7 @@
 		{
 			"ShaderMapHash": "0997E6E0DC150D8A0D9D8CA089D98F90AF739D85",
 			"Assets": [
-				"/Game/OldWest/VOL5/Materials/MI_Rug_02a",
-				"/Game/OldWest/VOL5/Materials/MI_Rug_NN_02a"
-			]
-		},
-		{
-			"ShaderMapHash": "EC3D19E1AC708097C9F7E17D81AA0E7366DF18E0",
-			"Assets": [
-				"/Game/WinterTown/Materials/M_WindowWideGlass02Lit"
-			]
-		},
-		{
-			"ShaderMapHash": "B23AE2E2401E3E7F03CAA6F4CD22AF0446ADE5BF",
-			"Assets": [
-				"/Game/JapaneseFurniture_Modern/Materials/Surface/MI_Parquet"
+				"/Game/OldWest/VOL5/Materials/MI_Rug_02a"
 			]
 		},
 		{
@@ -2075,18 +1324,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "C5C625EF3F4F507110F935962DFB4F0CE8BD5853",
-			"Assets": [
-				"/Game/WinterTown/Materials/M_bark11"
-			]
-		},
-		{
-			"ShaderMapHash": "1E4893EFC49AF76AE295BF957BA72748A18984A5",
-			"Assets": [
-				"/Game/WinterTown/Materials/M_ACFanOFF"
-			]
-		},
-		{
 			"ShaderMapHash": "BC8193EF0F2C1E7C225DBC2AD1F83A30DB8E1791",
 			"Assets": [
 				"/Game/FreeFurniturePack/Materials/M_Bed_Lamp_3"
@@ -2107,8 +1344,7 @@
 		{
 			"ShaderMapHash": "62C8D9F1A4AB9E6FC463989CF0D9A3F74976C023",
 			"Assets": [
-				"/Game/LevelData/Trattoria",
-				"/Game/Test3DEnvironment/Levels/Test3dScene"
+				"/Game/LevelData/Trattoria"
 			]
 		},
 		{
@@ -2124,24 +1360,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "E6CBABF4FBFE259737D84FC28966678D001A85B3",
-			"Assets": [
-				"/Game/FantasyInterior01/Materials/M_Sky",
-				"/Game/FantasyInterior01/Materials/M_Sky_Assets"
-			]
-		},
-		{
 			"ShaderMapHash": "C6748BF53A9CA0447E3329919E0CAB1523393BA9",
 			"Assets": [
-				"/Game/WinterTown/Materials/M_DoorEnterance01",
-				"/Game/WinterTown/Materials/M_DoorEnterance02",
-				"/Game/WinterTown/Materials/M_GlassBalcony01",
-				"/Game/WinterTown/Materials/M_GlassHallWindow",
-				"/Game/WinterTown/Materials/M_WindowGlass01",
-				"/Game/WinterTown/Materials/M_WindowGlass02",
-				"/Game/WinterTown/Materials/M_WindowSmall01",
-				"/Game/WinterTown/Materials/M_WindowSmall02",
-				"/Game/WinterTown/Materials/M_WindowWideGlass01"
+				"/Game/WinterTown/Materials/M_GlassBalcony01"
 			]
 		},
 		{
@@ -2153,8 +1374,7 @@
 		{
 			"ShaderMapHash": "949AB2F8415E8DA368C168CC12B5FF8BB408693A",
 			"Assets": [
-				"/Game/LevelData/Trattoria",
-				"/Game/Test3DEnvironment/Levels/Test3dScene"
+				"/Game/LevelData/Trattoria"
 			]
 		},
 		{
@@ -2167,17 +1387,6 @@
 			"ShaderMapHash": "6313C3F96064F75969875A9B3A19FE165CE414EB",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_Brick_Hewn_Stone"
-			]
-		},
-		{
-			"ShaderMapHash": "F6B38CFA4F4F107937D7A11FEE3FEEF0CBBE7EEF",
-			"Assets": [
-				"/Game/ModularOldTown/Materials/MI_FlattenRoofWall_Brick",
-				"/Game/ModularOldTown/Materials/MI_FlattenWall_GreatBalconyWall_Brick",
-				"/Game/ModularOldTown/Materials/MI_FlattenWall_GreatBalconyWall_Plaster",
-				"/Game/ModularOldTown/Materials/MI_Floor_1m_DecalLight",
-				"/Game/ModularOldTown/Materials/MI_GreatBalconyIndoor_Wall_Brick",
-				"/Game/ModularOldTown/Materials/MI_StairWalls"
 			]
 		},
 		{
@@ -2203,22 +1412,6 @@
 			"ShaderMapHash": "314497FDA099E434D099D656FA0C6D1AD8B47691",
 			"Assets": [
 				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Blend"
-			]
-		},
-		{
-			"ShaderMapHash": "777C18FEC3F046665E756D0EF036EC894FFBD941",
-			"Assets": [
-				"/Game/WinterTown/Materials/M_Ceiling01",
-				"/Game/WinterTown/Materials/M_WallHallPaint01",
-				"/Game/WinterTown/Materials/M_Wallpaper02",
-				"/Game/WinterTown/Materials/M_Wallpaper03",
-				"/Game/WinterTown/Materials/M_Wallpaper04"
-			]
-		},
-		{
-			"ShaderMapHash": "66E13BFED8BCD93DC1D0CC5DEFADB6F5FA08B53C",
-			"Assets": [
-				"/Game/WinterTown/Materials/M_Road02"
 			]
 		},
 		{
